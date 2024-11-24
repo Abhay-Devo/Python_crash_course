@@ -1,0 +1,3 @@
+learn python, study, high, pending
+learn c, eduction, high, pending 
+go to shopping, shopping, low, finished

@@ -1,0 +1,3 @@
+Reading files using python file I/O funtions
+This is the second line read by readline()
+All this will be converted into list of items and printed on to terminal.
